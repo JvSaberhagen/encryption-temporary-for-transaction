@@ -1,0 +1,10 @@
+[package]
+name = "bulletproofs_example"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+bulletproofs = "3.0"
+curve25519-dalek = "3.2"
+merlin = "2.0"
+rand = "0.8"
